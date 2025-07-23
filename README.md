@@ -7,7 +7,7 @@
 ---
 
 # 💫 About Me:
-Tentang saya
+Aku Ofik, seorang Front-End Developer penuh semangat dari Pamekasan, Madura. Saat ini, aku sedang menempuh studi di jurusan Teknik Informatika, Universitas Islam Madura. Aku sangat menyukai proses mengubah ide-ide kompleks menjadi pengalaman digital yang indah, intuitif, dan responsif. Di luar kode, aku senang menjelajahi teknologi baru dan terhubung dengan sesama developer!
 
 
 ## 🌐 Socials:
@@ -25,9 +25,6 @@ Tentang saya
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ofikur&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ofikur&icon=0&color=0)](https://visitcount.itsvg.in)
