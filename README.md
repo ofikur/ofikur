@@ -7,7 +7,7 @@
 ---
 
 # 💫 About Me:
-Aku Ofik, seorang Front-End Developer penuh semangat dari Pamekasan, Madura. Saat ini, aku sedang menempuh studi di jurusan Teknik Informatika, Universitas Islam Madura. Aku sangat menyukai proses mengubah ide-ide kompleks menjadi pengalaman digital yang indah, intuitif, dan responsif. Di luar kode, aku senang menjelajahi teknologi baru dan terhubung dengan sesama developer!
+Saya Moh. Ofikurrahman, seorang Front-End Developer dari Pamekasan, Madura. Sebagai mahasiswa aktif program studi Teknik Informatika di Universitas Islam Madura, saya memiliki minat kuat dalam pengembangan web. Saya berfokus pada penciptaan antarmuka pengguna yang bersih, elegan, fungsional, dan memberikan pengalaman intuitif bagi pengguna.
 
 
 ## 🌐 Socials:
@@ -18,7 +18,6 @@ Aku Ofik, seorang Front-End Developer penuh semangat dari Pamekasan, Madura. Saa
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ofikur&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ofikur&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ofikur&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ofikur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
