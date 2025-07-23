@@ -11,19 +11,19 @@
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h2 align="center">👤 Tentang Aku</h2>
+      <h2 align="center">👤 About Me</h2>
       <p align="center">
-        Seorang penyihir kode dari <b>Pamekasan</b> yang bersemangat dalam menciptakan tampilan web yang tidak hanya fungsional, tapi juga memanjakan mata.
+        A passionate code wizard from <b>Pamekasan, Madura</b>, enthusiastic about creating web displays that are not only functional but also visually pleasing.
         <br><br>
-        🎓 Mahasiswa <b>Teknik Informatika</b> di <b>Universitas Islam Madura</b>.
+        🎓 Student of <b>Informatics Engineering</b> at <b>Universitas Islam Madura</b>.
         <br><br>
-        🚀 Terobsesi dengan animasi yang mulus, desain yang bersih, dan pengalaman pengguna yang intuitif.
+        🚀 Obsessed with smooth animations, clean design, and intuitive user experiences.
         <br><br>
-        🌱 Saat ini sedang jatuh cinta dengan <b>React</b>, <b>Vue</b>, dan... yah, tanyakan saja padaku! 😉
+        🌱 Currently in love with <b>React</b>, <b>Vue</b>, and... well, just ask me! 😉
       </p>
     </td>
     <td valign="top" width="50%">
-      <h2 align="center">📊 Statistik GitHub</h2>
+      <h2 align="center">📊 GitHub Stats</h2>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ofikur&show_icons=true&locale=en&theme=tokyonight&hide_border=true&card_width=400" alt="Ofik's GitHub stats" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofikur&layout=compact&locale=en&theme=tokyonight&hide_border=true&card_width=400" alt="Top Langs" />
@@ -33,23 +33,27 @@
 </table>
 
 <div align="center">
-  <blockquote>
-    <i>"Aku tidak hanya menulis kode. Aku menenun sebuah dunia digital, satu baris pada satu waktu."</i>
+  <br>
+  <hr style="border: 1px solid #2f344d; width: 75%;">
+  <br>
+  <blockquote style="text-align: center; font-style: italic; color: #a9b1d6; border-left: 4px solid #bb9af7; padding-left: 20px; margin: 0 40px;">
+    <p>"Tetaplah menjadi versi terbaik dari dirimu, sebab dunia butuh ketulusan, bukan kesempurnaan."</p>
   </blockquote>
+  <br>
+  <hr style="border: 1px solid #2f344d; width: 75%;">
+  <br>
 </div>
 
----
-
-<h2 align="center">🛠️ Tumpukan Teknologiku</h2>
+<h2 align="center">🛠️ My Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,tailwind,sass,bootstrap,git,github,figma,vscode&perline=7" alt="My Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,tailwindcss,sass,bootstrap,git,github,figma,vscode&perline=7" alt="My Tech Stack"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">📬 Yuk, Terhubung Denganku!</h2>
+<h2 align="center">📬 Connect With Me</h2>
 <p align="center">
   <a href="mailto:moh.ofikurxyz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/ofikur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -57,5 +61,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ofikur&label=Pengunjung_Profil&color=DB6262&style=flat" alt="ofikur" />
+  <img src="https://komarev.com/ghpvc/?username=ofikur&label=Profile_Visitors&color=DB6262&style=flat" alt="ofikur" />
 </p>
