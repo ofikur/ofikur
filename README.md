@@ -10,7 +10,7 @@
 
 ---
 
-### <p align="center"> Hi there 👋, I'm Ofik! </p>
+### <p align="center"> 👋 Sedikit Tentang Aku </p>
 
 <p align="center">
   <a href="https://github.com/ofikur">
@@ -23,17 +23,19 @@
 
 <br>
 
-- 👨‍💻 I’m a **Front-End Web Developer** from Pamekasan, Madura.
-- 🎓 Currently studying **Informatics Engineering** at Universitas Islam Madura.
-- 🚀 I love crafting modern, interactive, and responsive web experiences.
-- 🌱 I’m currently diving deeper into **React** and **Vue.js**.
-- 💬 Ask me about anything related to web development, I'd be happy to help!
-- 📫 How to reach me: **moh.ofikurxyz@gmail.com**
-- ⚡ Fun fact: I believe a good user interface can make anyone's day better!
+- 👨‍💻 Aku seorang **Front-End Developer** dari Pamekasan, Madura, yang bersemangat mengubah ide menjadi kenyataan di dunia digital.
+
+- 🎓 Saat ini aku adalah mahasiswa **Teknik Informatika** di **Universitas Islam Madura**.
+
+- 🚀 Aku menemukan kebahagiaan dalam menciptakan antarmuka web yang hidup, interaktif, dan tentunya responsif.
+
+- 🌱 Saat ini sedang jatuh cinta dengan **React**, **Vue**, dan... yah, tanyakan saja padaku! 😉
+
+> "Aku tidak hanya menulis kode. Aku menenun sebuah dunia digital, satu baris pada satu waktu."
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tumpukan Teknologiku
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -55,5 +57,5 @@
 </p>
 
 <p align="center">
-  <em>Feel free to connect with me. Let's build something awesome together!</em>
+  <em>Jangan ragu untuk terhubung denganku. Mari kita bangun sesuatu yang luar biasa bersama!</em>
 </p>
