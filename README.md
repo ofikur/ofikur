@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me 
 Saya Moh. Ofikurrahman, seorang Front-End Developer dari Pamekasan, Madura. Sebagai mahasiswa aktif program studi Teknik Informatika di Universitas Islam Madura, saya memiliki minat kuat dalam pengembangan web. Saya berfokus pada penciptaan antarmuka pengguna yang bersih, elegan, fungsional, dan memberikan pengalaman intuitif bagi pengguna.
 
 
