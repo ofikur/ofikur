@@ -52,8 +52,8 @@ Saya Moh. Ofikurrahman, seorang Front-End Developer dari Pamekasan, Madura. Seba
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofikur&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofikur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ofikur&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofikur&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=7" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ofikur&theme=radical&hide_border=false" />
 </p>
