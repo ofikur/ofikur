@@ -18,6 +18,8 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=ofikur&theme=algolia&hide_border=false" />
 </p>
 
+---
+
 ## ⍩⃝ Play Games with Me
 
 <picture>
