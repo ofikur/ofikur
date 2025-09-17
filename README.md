@@ -1,3 +1,7 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofikur&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofikur&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ofikur&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ofikur&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ofikur&theme=algolia&utcOffset=8)
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ofikur&theme=radical&hide_border=false&include_all_commits=false&count_private=true" />
