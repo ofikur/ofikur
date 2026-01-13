@@ -1,3 +1,6 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=ofikur&color=blueviolet&style=for-the-badge&abbreviated=true)
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofikur&theme=algolia" />
