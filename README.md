@@ -12,17 +12,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ofikur&theme=algolia&utcOffset=8" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofikur&theme=algolia&hide_border=false&include_all_commits=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofikur&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ofikur&theme=algolia&hide_border=false" />
-</p>
-
----
-
 ## ⍩⃝ Play Games with Me
 
 <picture>
