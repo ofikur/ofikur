@@ -1,21 +1,26 @@
+# Hi there, I'm Moh. Ofikurrahman! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ofikur&color=blueviolet&style=for-the-badge&abbreviated=true)
+### Front-End Web Developer | Informatics Engineering Student
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ofikur&theme=algolia" />
-  </br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ofikur&theme=algolia" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ofikur&theme=algolia" />
-  </br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ofikur&theme=algolia" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ofikur&theme=algolia&utcOffset=8" />
-</p>
+Based in **Pamekasan, Madura**, I am currently an undergraduate student majoring in **Informatics Engineering** at **Universitas Islam Madura**.
 
-## ⍩⃝ Play Games with Me
+I am passionate about creating interactive and user-friendly websites. While I explore various aspects of technology, my primary focus is on **Front-End Development** and delivering clean, efficient code.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ofikur/ofikur/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ofikur/ofikur/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ofikur/ofikur/output/pacman-contribution-graph.svg">
-</picture>
+![Profile Views](https://komarev.com/ghpvc/?username=ofikur&color=blueviolet&style=for-the-badge)
+
+---
+
+### 🚀 About Me
+
+- 🎓 I’m currently studying **Informatics Engineering** (Teknik Informatika).
+- 💻 I’m currently focusing on **Front-End Development** using **React** and **Next.js**.
+- 🛠️ I have experience building projects with **Laravel** and **Tailwind CSS**.
+- 📚 I am keenly interested in **Object-Oriented Programming (OOP)**, **Database Design**, and **SEO**.
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/ofikur](https://linkedin.com/in/ofikur)
+* **Instagram:** [@ofikurr](https://instagram.com/ofikurr)
+* **Email:** ofikurxyz@gmail.com
