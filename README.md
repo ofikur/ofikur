@@ -1,6 +1,6 @@
 # Hi there, I'm Moh. Ofikurrahman! 👋
 
-### Front-End Web Developer | Informatics Engineering Student
+### Front-End Web Developer | UI Enthusiast | Informatics Engineering Student
 
 Based in **Pamekasan, Madura**, I am currently an undergraduate student majoring in **Informatics Engineering** at **Universitas Islam Madura**.
 
