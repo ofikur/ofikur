@@ -2,7 +2,7 @@ name: System Log Sequence
 
 on:
   schedule:
-    - cron: '50 0-23 * * *'
+    - cron: '50 0-2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -68,4 +68,5 @@ jobs:
           git commit -m "Update Status: Active [$DATE WIB]"
 
       - name: Push Changes
+
         run: git push
